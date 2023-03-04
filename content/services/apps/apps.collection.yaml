@@ -48,6 +48,24 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: ETCFrogB
+  date: 2023-03-24
+  type: nfts
+  image: ./images/ETCFrogB.png
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x5925630e4D0AB569A40E600064Da2930b4838Da3/contracts
+  description: ETCFrogB is a rewards NFT focused on mining Ethereum Classic, and providing a long term plan to support development on ETC permanently. For more info, visit frogbogs.art
+  links:
+    - name: Launch App
+      link: https://www.frogbogs.art/
+    - name: Twitter
+      link: https://twitter.com/ETCFrogB
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/ETCFrogB
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/2ybr5Crh
+      icon: discord
 - title: Shiba Classic
   date: 2022-10-25
   type: other
